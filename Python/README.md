@@ -6,11 +6,14 @@ File Name:
 
 ### Objective
 Analyze sales performance.
-## Dataset
-Sales.csv
-## Tools
+
+### Dataset
+titanic.csv
+
+### Tools
 - Python
 - Pandas
 - Matplotlib
-## Findings
+  
+### Findings
 Example: West region generated highest sales.
