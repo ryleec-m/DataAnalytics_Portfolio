@@ -5,7 +5,9 @@ File Name: PythonEDAProject.ipynb
 ## Exploratory Data Analysis
 
 ### Objective
-Analyze sales performance.
+Who had higher survival rates?\
+Did class matter?\
+Did age influence survival?
 
 ### Dataset
 titanic.csv
