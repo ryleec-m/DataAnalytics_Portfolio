@@ -3,7 +3,8 @@
 File Name:
 
 ## Exploratory Data Analysis
- Objective
+
+### Objective
 Analyze sales performance.
 ## Dataset
 Sales.csv
