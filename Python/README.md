@@ -1,9 +1,9 @@
-## Python 
+# Python 
 
 File Name:
 
-# Exploratory Data Analysis
-## Objective
+## Exploratory Data Analysis
+ Objective
 Analyze sales performance.
 ## Dataset
 Sales.csv
