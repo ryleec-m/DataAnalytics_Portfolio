@@ -19,7 +19,7 @@ Graduate Student in Data Science
 [Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=15f8b23b-7f9e-419a-9f7a-25e51d2b432d&autoAuth=true&ctid=2ba33407-5ccc-4940-bd16-ae154f04c3ca)
 
 ### Tableau Dashboard
-Link Here
+[Tableau Dashboard](https://public.tableau.com/views/Tableau_Activity_17822719354680/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### SQL Project
 [SQL Employees Queries](https://github.com/ryleec-m/DataAnalytics_Portfolio/blob/main/SQL/Employees.sql)
 
