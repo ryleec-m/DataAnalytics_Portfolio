@@ -12,10 +12,10 @@ Graduate Student in Data Science
 - Data Visualization
   
 ## Projects
-### Python EDA Project
+file:///Users/ryleeconey/Downloads/Midterm_Assessment-3.html
 
 ### Power BI Dashboard
-file:///Users/ryleeconey/Downloads/Midterm_Assessment-3.html
+
 
 ### Tableau Dashboard
 Link Here
