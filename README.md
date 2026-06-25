@@ -14,7 +14,7 @@ Graduate Student in Data Science
 ## Projects
 
 ### Python EDA Project
-[Midterm Assessment](https://ryleec-m.github.io/DataAnalytics_Portfolio/Midterm_Assessment-3.html)
+[PythonEDAProject](https://github.com/ryleec-m/DataAnalytics_Portfolio/blob/main/Python/PythonEDAProject.ipynb)
 ### Power BI Dashboard
 
 
