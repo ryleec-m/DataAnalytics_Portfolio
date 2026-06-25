@@ -12,7 +12,9 @@ Graduate Student in Data Science
 - Data Visualization
   
 ## Projects
-file:///Users/ryleeconey/Downloads/Midterm_Assessment-3.html
+
+### Python EDA Project
+[Midterm Assessment](https://yourusername.github.io/yourrepo/Midterm_Assessment-3.html)
 
 ### Power BI Dashboard
 
