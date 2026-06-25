@@ -5,4 +5,4 @@ Here is the link for the dashboard: https://app.powerbi.com/reportEmbed?reportId
 ### Other Files Incldued:
 - HR_Employees_data-2.pbix
 - Screenshot of Dashboard (Dashboard.png)
-- HR_Employees Excel Sheet (HR_Employees.xlcx)
+- HR_Employees Excel Sheet (HR_Employees.xlsx)
