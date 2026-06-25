@@ -20,3 +20,6 @@ Link Here
 Link Here
 ### SQL Project
 Link Here
+
+## Contact
+LinkedIn: www.linkedin.com/in/rylee-coney-b92a12290
