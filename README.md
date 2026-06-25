@@ -13,9 +13,10 @@ Graduate Student in Data Science
   
 ## Projects
 ### Python EDA Project
-Link Here
+
 ### Power BI Dashboard
-Link Here
+PythonEDAProject.ipynb
+
 ### Tableau Dashboard
 Link Here
 ### SQL Project
