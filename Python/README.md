@@ -1,6 +1,6 @@
 # Python 
 
-File Name: PythonEDAProject.ipynb
+File Name: PythonEDAProject.ipynb\
 Dataset: titanic.csv
 
 ## Exploratory Data Analysis
