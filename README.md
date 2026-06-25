@@ -21,7 +21,7 @@ Graduate Student in Data Science
 ### Tableau Dashboard
 Link Here
 ### SQL Project
-[SQL Employees Database](https://github.com/ryleec-m/DataAnalytics_Portfolio/blob/main/SQL/Employees.sql)
+[SQL Employees Queries](https://github.com/ryleec-m/DataAnalytics_Portfolio/blob/main/SQL/Employees.sql)
 
 ## Contact
 LinkedIn: www.linkedin.com/in/rylee-coney-b92a12290
