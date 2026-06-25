@@ -3,4 +3,4 @@
 File name: Employees.sql
 
 ### Other Files Included:
-- Employees Data Sheet
+- HR Employees Excel Sheet
