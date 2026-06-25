@@ -15,7 +15,7 @@ Graduate Student in Data Science
 ### Python EDA Project
 
 ### Power BI Dashboard
-PythonEDAProject.ipynb
+file:///Users/ryleeconey/Downloads/Midterm_Assessment-3.html
 
 ### Tableau Dashboard
 Link Here
